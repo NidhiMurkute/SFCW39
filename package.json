@@ -16,7 +16,7 @@
     "passport": "^0.4.1"
   },
   "devDependencies": {
-    "@sap/cds-dk": "^2.0.8"
+    "@sap/cds-dk": "*"
   },
   "engines": {
     "node": "^10"
